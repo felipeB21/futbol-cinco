@@ -4,7 +4,7 @@ import { AuthButtonServer } from "./auth-button-server";
 const links = [
   { name: "Tabla", url: "/rank" },
   { name: "Partidos", url: "/games" },
-  { name: "Equipos", url: "/teams" },
+  { name: "Equipos", url: "/join-team" },
   { name: "Jugadores", url: "/players" },
 ] as const;
 

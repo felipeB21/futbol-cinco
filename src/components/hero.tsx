@@ -31,7 +31,7 @@ export default function HeroPage() {
               Unite a un equipo
             </h2>
             <Link href="/join-team">
-              <Button>Unirte a Equipo</Button>
+              <Button>Buscar Equipo</Button>
             </Link>
           </div>
         </div>
